@@ -1,0 +1,2 @@
+
+struct CTest1 {};
